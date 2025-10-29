@@ -1,0 +1,19 @@
+Task 4: Embed Audio & Video into a Web Page
+Objective: Learn to use <audio> and <video> tags for multimedia. Requirements:
+ Create a “Media Gallery” page.
+ Embed one audio and one video file using HTML5 tags with controls.
+ Add captions/subtitles if possible.
+
+NOTES:
+1)write code as you are senior developer but write beginner friendly code 
+2)ensure SEO, accessibility and responsiveness across all devices
+3)write optimal code 
+4)only use HTML and CSS
+5)you can take time to think 
+6)don't make any mistakes 
+7)you can take reference from below given links 
+
+Reference Links:
+https://www.w3schools.com/html/html_media.asp
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/audio
+https://www.youtube.com/watch?v=bXfXdJs6J7k
